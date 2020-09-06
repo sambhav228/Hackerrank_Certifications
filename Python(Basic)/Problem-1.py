@@ -11,4 +11,4 @@
     
                                                               I solved this problem using in-built function called as mean().*/
     
- As this was 1st problem so they kept straight-forward Problem Statemets which I told earlier was based on finding avg. value of a list elements.
+ // As this was 1st problem so they kept straight-forward Problem Statemets which I told earlier was based on finding avg. value of a list elements.
