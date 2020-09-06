@@ -16,5 +16,5 @@ The second coding problem in my assessment test was about :
                                                             As they already provided the usedefine functions name so coming to implementation part it was not too tough
                                                             to frame a required solution for the given problem statements.
                                                         
-  A basic knowledge of python which gives you overview of all topics can successfully complete this certification .
+ // A basic knowledge of python which gives you overview of all topics can successfully complete this certification .
                                                                                                     Happy Coding !!!
