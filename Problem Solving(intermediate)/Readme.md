@@ -1,4 +1,4 @@
 ## Problem-Solving (Intermediate) Certification assessment
 
 
-#### Certification Link:
+#### Certificate Profile:
