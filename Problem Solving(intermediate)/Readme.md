@@ -1,2 +1,1 @@
-
-# Problem-Solving (Intermediate) Certification assessment
+## Problem-Solving (Intermediate) Certification assessment
