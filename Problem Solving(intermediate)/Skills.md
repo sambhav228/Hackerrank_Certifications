@@ -8,3 +8,8 @@ Solving problems is the core of computer science. Programmers must first underst
 
 
 This competency area includes usage of HashMaps, stacks, queues, heaps, and analyzing run-time complexities and space complexities, among others.
+
+Key Competencies:
+
+Data Structures - Use Data Structures such as HashMaps, stacks, queues, heaps. Manipulate single or double linked lists
+Algorithms - Use Optimal Solutions to solve problems. Analyze run-time complexities and space complexities. Create simple dynamic programming-based algorithms.
