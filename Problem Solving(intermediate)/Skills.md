@@ -11,5 +11,6 @@ This competency area includes usage of HashMaps, stacks, queues, heaps, and anal
 
 **Key Competencies:**
 
-Data Structures - Use Data Structures such as HashMaps, stacks, queues, heaps. Manipulate single or double linked lists
-Algorithms - Use Optimal Solutions to solve problems. Analyze run-time complexities and space complexities. Create simple dynamic programming-based algorithms.
+  Data Structures - Use Data Structures such as HashMaps, stacks, queues, heaps. Manipulate single or double linked lists
+
+  Algorithms - Use Optimal Solutions to solve problems. Analyze run-time complexities and space complexities. Create simple dynamic programming-based algorithms.
