@@ -11,6 +11,6 @@ The first coding problem in my assessment test was about :
                                                           So we are dealing here with a medium string problem where we need to check within the pattern of string for no 
                                                           adjacent letter should be together and if found we need to swap . At the end we need to count the number of swap
                                                           happened within the string. 
+                                                          A general approach was used that checking each letter with the adjacent letter and incrementing the swap_count value.
                                                           
-                                                          I have solved this problem of time complexity O(n).
-                                                        
+                                                          I have solved this problem of time complexity O(n).                                        
