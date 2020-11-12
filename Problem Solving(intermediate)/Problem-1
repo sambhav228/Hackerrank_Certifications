@@ -8,3 +8,10 @@
 The first coding problem in my assessment test was about :
                                                         
                                                         
+                                                          Minimum swapping of strings
+                                                          So we are dealing here with a medium string problem where we need to check within the pattern of string for no 
+                                                          adjacent letter should be together and if found we need to swap . At the end we need to count the number of swap
+                                                          happened within the string. 
+                                                          
+                                                          I have solved this problem of time complexity O(n).
+                                                        
