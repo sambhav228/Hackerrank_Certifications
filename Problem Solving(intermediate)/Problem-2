@@ -6,6 +6,8 @@
 
 /*
 The second coding problem in my assessment test was about :
-      
                                                           
-                                                                        coming soon . . .
+                                                         It was based on binary search algorithms. 
+                                                         The solution would be to sort the array in ascending order and then for each player 
+                                                         find the next player with the least skill that satisfies the minimum criteria. 
+                                                         Use binary search to find the next optimal player.
